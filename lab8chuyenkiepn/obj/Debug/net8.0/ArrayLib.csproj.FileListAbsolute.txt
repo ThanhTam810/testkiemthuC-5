@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\bin\Debug\net8.0\ArrayLib.exe
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\bin\Debug\net8.0\ArrayLib.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\bin\Debug\net8.0\ArrayLib.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\bin\Debug\net8.0\ArrayLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\bin\Debug\net8.0\ArrayLib.pdb
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\refint\ArrayLib.dll
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.pdb
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ArrayLib.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\lab8chuyenkiepn\lab8chuyenkiepn\obj\Debug\net8.0\ref\ArrayLib.dll
