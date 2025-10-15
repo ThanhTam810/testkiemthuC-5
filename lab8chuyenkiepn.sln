@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLib", "lab8chuyenkiepn\ArrayLib.csproj", "{A28E8730-DE2C-4D9E-B22B-9629F9B6D790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArratLibTest", "ArratLibTest\ArratLibTest.csproj", "{49CA5C91-0EB9-4737-9B6E-F723B3F75711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28E8730-DE2C-4D9E-B22B-9629F9B6D790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28E8730-DE2C-4D9E-B22B-9629F9B6D790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28E8730-DE2C-4D9E-B22B-9629F9B6D790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28E8730-DE2C-4D9E-B22B-9629F9B6D790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CA5C91-0EB9-4737-9B6E-F723B3F75711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CA5C91-0EB9-4737-9B6E-F723B3F75711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CA5C91-0EB9-4737-9B6E-F723B3F75711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CA5C91-0EB9-4737-9B6E-F723B3F75711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41F6269-596A-416C-BC14-939F59CC02AB}
+	EndGlobalSection
+EndGlobal
